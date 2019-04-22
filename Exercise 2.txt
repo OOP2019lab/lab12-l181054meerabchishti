@@ -1,0 +1,31 @@
+OUTPUT BEFORE USING VIRTUAL KEYWORD
+triangle area invoked
+4.5
+Red
+circle area invoked
+12.568
+rectangle area invoked
+12
+shape area invoked
+0
+Red
+Orange
+shape area invoked
+0
+
+
+OUTPUT AFTER USING VIRTUAL KEYWORD
+triangle area invoked
+4.5
+Red
+circle area invoked
+12.568
+rectangle area invoked
+12
+triangle area invoked
+4.5
+Red
+Orange
+rectangle area invoked
+12
+
